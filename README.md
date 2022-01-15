@@ -28,4 +28,4 @@
 
 [googlelink]: https://google.com "go google"   
 링크: [Google](https://google.com, "googlelink")   
-외부링크: https://google.com
+외부링크: <https://google.com>
