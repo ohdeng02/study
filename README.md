@@ -27,4 +27,4 @@
 링크: [Google][googlelink]   
 
 [googlelink]: https://google.com "go google"   
-링크: [Google](https://google.com, "google link")
+링크: [Google](https://google.com, "googlelink")
