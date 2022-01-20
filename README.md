@@ -1,32 +1,44 @@
-## :books:__공부__
->수업/공부 내용 정리    
->+ 블라블라블라
->+ 하ㅣㅇ
->   + 호호
->       ```
->       하하
->       ```
+# :books:공부   
+  프로그래밍 언어, 전공과목, 프로그래밍 지식 등에 관해 공부한 내용들을 정리한 공간입니다.   
+   연습했던 문제들의 코드도 첨부되어 있습니다.
 
-1. 안녕
-2. 하이
-3. 봉쥬르   
+--- 
+<br>
 
-안녕안녕    
-```    
-호호호 하하하 히히ㅣ        
-후후ㅏ우라머ㅣㅏㅣㅏ
-```    
-끝 `하`  
-+ <pre>
-  <code>{호호호}</code></pre>   
+## 🚩목차   
+1. 내용정리
 
-```
-러아머라ㅣ어미
-ㄹ어니ㅏ머리ㅏㅓ마러ㅣㅏ머
-```
-링크: [Google][googlelink]   
 
-[googlelink]: https://google.com "go google"   
-링크: [Google](https://google.com, "googlelink")   
-외부링크: https://google.com   
 
+
+
+
+
+
+
+
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
