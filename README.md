@@ -16,7 +16,7 @@
     <li>inheritance(미완)</li>
     <li>polymorphism(미완)</li>
     <li>vector(미완)</li>
-    <li>연습코드모음</li>
+    <li>전공책 연습코드모음</li>
   </ul>
 </details>
 <details>
