@@ -10,14 +10,14 @@
 + 아직은 일부 과목의 각 챕터별로 학습했던 __코드들만__ 작성해두었습니다.
 <details>
   <summary>C++</summary>   
-  <ul>
+    <ul>
     <li>OOP(미완)</li>
     <li>object(미완)</li>
     <li>inheritance(미완)</li>
     <li>polymorphism(미완)</li>
     <li>vector(미완)</li>
-    <li>전공책 연습코드모음</li>
-  </ul>
+    <li><a href="c++/CodeEx/codeEx.md">전공책 연습코드모음</a></li>
+      
 </details>
 <details>
   <summary>JAVA</summary>   
