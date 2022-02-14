@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//area() ÇÔ¼öÀÇ prototype
+//area() í•¨ìˆ˜ì˜ prototype
 double area(int r);
 int main() {
 	cout << "Hello" << endl;
@@ -8,11 +8,11 @@ int main() {
 	char c = '#';
 	cout << c << 5.5 << '-' << n << "grace" << endl;
 	cout << "n + 5 =" << n + 5 << endl;
-    //integer¸¦ ¸Å°³º¯¼ö·Î ¹Ş¾Æ ¿øÀÇ ¸éÀûÀ» °è»êÇÏ´Â ÇÔ¼öÀÇ return °ªÀ» Ãâ·ÂÇÏÀÚ.
+    //integerë¥¼ ë§¤ê°œë³€ìˆ˜ë¡œ ë°›ì•„ ì›ì˜ ë©´ì ì„ ê³„ì‚°í•˜ëŠ” í•¨ìˆ˜ì˜ return ê°’ì„ ì¶œë ¥í•˜ì.
 	cout << area(n);
     return 0;
 }
-//areaI() ÇÔ¼ö ±¸Çö
+//areaI() í•¨ìˆ˜ êµ¬í˜„
 double area(int r)
 {
 	return 3.14 * r * r;
