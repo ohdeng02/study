@@ -1,21 +1,21 @@
 #include<iostream>
 #include "circle.h"
 using namespace std;
-//classÀÇ Á¤ÀÇ¿Í classÀÇ implementation ºĞ¸®ÇÒ ¿¹Á¤
-//class Á¤ÀÇ¿¡´Â member º¯¼ö member ÇÔ¼öÀÇ prototype¸¸ Àû´Â´Ù.
+//classì˜ ì •ì˜ì™€ classì˜ implementation ë¶„ë¦¬í•  ì˜ˆì •
+//class ì •ì˜ì—ëŠ” member ë³€ìˆ˜ member í•¨ìˆ˜ì˜ prototypeë§Œ ì ëŠ”ë‹¤.
 //class implementation 
 
 int main() {
-	cout << sizeof(Circle) << endl;//8ÀÌ ³ª¿Â´Ù. Circle ¾È¿¡ double ¸â¹öº¯¼ö°¡ ¼±¾ğµÇ¾îÀÖ¾î¼­.
+	cout << sizeof(Circle) << endl;//8ì´ ë‚˜ì˜¨ë‹¤. Circle ì•ˆì— double ë©¤ë²„ë³€ìˆ˜ê°€ ì„ ì–¸ë˜ì–´ìˆì–´ì„œ.
 	Circle c1;
 	cout << sizeof(c1) << endl;
 	cout << "address of c1:" << &c1 << endl;
 	cout << "c1.radius:" << c1.radius << endl;
-	cout << "c1 ¸éÀû:" << c1.getArea() << endl;
+	cout << "c1 ë©´ì :" << c1.getArea() << endl;
 	Circle c2(5);
 	cout << "address of c2:" << &c2 << endl;
 	cout << "c2.radius:" << c2.radius << endl;
-	cout << "c2 ¸éÀû:" << c2.getArea() << endl;
+	cout << "c2 ë©´ì :" << c2.getArea() << endl;
 	c1 = c2;
 	cout << "c1.radius:" << c1.radius;
 	return 0;
