@@ -11,11 +11,17 @@
 <details>
   <summary>C++</summary>   
     <ul>
-    <li>OOP(미완)</li>
-    <li>object(미완)</li>
-    <li>inheritance(미완)</li>
-    <li>polymorphism(미완)</li>
-    <li>vector(미완)</li>
+    <li>ch01(미완)</li>
+    <li>ch02(미완)</li>
+    <li>ch06(미완)</li>
+    <li>ch07(미완)</li>
+    <li>ch09(미완)</li>
+    <li>ch10(미완)</li>
+    <li>ch11(미완)</li>
+    <li>ch12(미완)</li>
+    <li>ch13(미완)</li>
+    <li>ch15(미완)</li>
+    <li>ch16(미완)</li>    
     <li><a href="c++/CodeEx/codeEx.md">전공책 연습코드모음</a></li>
       
 </details>
