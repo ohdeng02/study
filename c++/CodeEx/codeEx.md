@@ -1,1 +1,75 @@
 ## C++ 코드연습
+### 교재코드문제연습(Introduction to Programming With C++)
+
+<ol>
+    <li>ch02</li>
+      <ul>
+        <li><a href="">ex2.5</li>
+        <li>ex2.6</li>
+        <li>ex2.7</li>
+        <li>ex2.13</li>
+        <li>ex2.14</li>
+        <li>ex2.17</li>
+        <li>ex2.19</li>
+        <li>ex2.20</li>
+        <li>ex2.22</li>
+        <li>ex2.23</li>
+      </ul>
+    <li>ch06</li>
+      <ul>
+        <li>ex6.2</li>
+        <li>ex6.3</li>        
+        <li>ex6.4</li>
+        <li>ex6.5</li>
+        <li>ex6.6</li>
+        <li>ex6.7</li>
+        <li>ex6.12</li>
+        <li>ex6.13</li>
+        <li>ex6.20</li>
+        <li>ex6.23</li>
+        <li>ex6.25</li>
+        <li>ex6.43</li>
+        <li>ex6.47</li>
+      </ul>
+    <li>ch07</li>
+      <ul>
+        <li>ex7.3</li>
+        <li>ex7.5</li>
+        <li>ex7.7</li>
+        <li>ex7.9</li>
+        <li>ex7.11</li>
+        <li>ex7.17</li>
+        <li>ex7.23</li>
+        <li>ex7.24</li>
+        <li>ex7.26</li>
+        <li>ex7.27</li>
+        <li>ex7.31</li>
+        <li>ex7.32</li>
+        <li>ex7.33</li>
+        <li>ex7.34</li>
+        <li>ex7.37</li>
+      </ul>
+    <li>ch09</li>
+      <ul>
+        <li>ex9.2</li>
+        <li>ex9.3</li>
+        <li>ex9.4</li>
+        <li>ex9.6</li>
+        <li>ex9.9</li>
+      </ul>
+    <li>ch10</li>
+      <ul>
+        <li>ex10.1</li>
+        <li>ex10.2</li>
+        <li>ex10.3</li>
+        <li>ex10.4</li>
+        <li>ex10.5</li>
+        <li>ex10.6</li>
+        <li>ex10.7</li>        
+        <li>ex10.12</li>
+        <li>ex10.13</li>
+        <li>ex10.17</li>
+      </ul>
+</ol>
+      
+</details>
