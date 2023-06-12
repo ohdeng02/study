@@ -26,6 +26,7 @@
         <li>ex6.12</li>
         <li>ex6.13</li>
         <li>ex6.20</li>
+        <li>ex6.21</li>
         <li>ex6.23</li>
         <li>ex6.25</li>
         <li>ex6.43</li>
@@ -39,6 +40,7 @@
         <li>ex7.9</li>
         <li>ex7.11</li>
         <li>ex7.17</li>
+        <li>ex7.20</li>
         <li>ex7.23</li>
         <li>ex7.24</li>
         <li>ex7.26</li>
