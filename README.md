@@ -6,26 +6,26 @@
 <br>
 
 
-## 📝내용정리(제작중)
+## 📝내용정리
 + 아직은 일부 과목의 각 챕터별로 학습했던 __코드들만__ 작성해두었습니다.
 <details>
   <summary>C++</summary>   
     <ul>
-    <li>ch01(미완)</li>
-    <li>ch02(미완)</li>
-    <li>ch06(미완)</li>
-    <li>ch07(미완)</li>
-    <li>ch09(미완)</li>
-    <li>ch10(미완)</li>
-    <li>ch11(미완)</li>
-    <li>ch12(미완)</li>
-    <li>ch13(미완)</li>
-    <li>ch15(미완)</li>
-    <li>ch16(미완)</li>    
+    <li>ch01</li>
+    <li>ch02</li>
+    <li>ch06</li>
+    <li>ch07</li>
+    <li>ch09</li>
+    <li>ch10</li>
+    <li>ch11</li>
+    <li>ch12</li>
+    <li>ch13</li>
+    <li>ch15</li>
+    <li>ch16</li>    
     <li><a href="c++/CodeEx/codeEx.md">전공책 연습코드모음</a></li>
       
 </details>
-<details>
+<!--<details>
   <summary>JAVA</summary>   
   <ul>
     <li>class(미완)</li>
@@ -82,7 +82,7 @@
   <ul>
     
   </ul>
-</details>
+</details>-->
 
-## 💻연습문제 풀이(기초)
-+ 백준
+<!--## 💻연습문제 풀이(기초)
++ 백준-->
