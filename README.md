@@ -11,17 +11,17 @@
 <details>
   <summary>C++</summary>   
     <ul>
-    <li>ch01</li>
-    <li>ch02</li>
-    <li>ch06</li>
-    <li>ch07</li>
-    <li>ch09</li>
-    <li>ch10</li>
-    <li>ch11</li>
-    <li>ch12</li>
-    <li>ch13</li>
-    <li>ch15</li>
-    <li>ch16</li>    
+    <li><a href="c++/ch01/">ch01</li>
+    <li><a href="c++/ch02/">ch02</li>
+    <li><a href="c++/ch06/">ch06</li>
+    <li><a href="c++/ch07/">ch07</li>
+    <li><a href="c++/ch09/">ch09</li>
+    <li><a href="c++/ch10/">ch10</li>
+    <li><a href="c++/ch11/">ch11</li>
+    <li><a href="c++/ch12/">ch12</li>
+    <li><a href="c++/ch13/">ch13</li>
+    <li><a href="c++/ch15/">ch15</li>
+    <li><a href="c++/ch16/">ch16</li>    
     <li><a href="c++/CodeEx/codeEx.md">전공책 연습코드모음</a></li>
       
 </details>
