@@ -4,7 +4,7 @@
 <ol>
     <li>ch02</li>
       <ul>
-        <li><a href="/ex2.5/">ex2.5</li>
+        <li><a href="c++/CodeEx/ex2.5/">ex2.5</li>
         <li>ex2.6</li>
         <li>ex2.7</li>
         <li>ex2.13</li>
